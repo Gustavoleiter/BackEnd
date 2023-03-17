@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "forca",
+      "author": "moniq"
+    },
+    {
+      "id": 23,
+      "title": "forca",
+      "author": "gusta"
+    },
+    {
+      "id": 1,
+      "title": "test",
+      "author": "gusta"
+    },
+    {
+      "id": 3,
+      "title": "fé",
+      "author": "alan"
+    }
+  ],
+  "comments": [
+    {
+      "id": 3,
+      "title": "fé",
+      "author": "alan"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
