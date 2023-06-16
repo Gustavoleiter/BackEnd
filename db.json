@@ -1,34 +1,22 @@
 {
-  "posts": [
-    {
-      "id": 2,
-      "title": "forca",
-      "author": "moniq"
-    },
-    {
-      "id": 23,
-      "title": "forca",
-      "author": "gusta"
-    },
+  "produtos": [
     {
       "id": 1,
-      "title": "test",
-      "author": "gusta"
+      "nome": "curso angular",
+      "validade": "2102-12-31",
+      "precoProduto": 321.32
     },
     {
-      "id": 3,
-      "title": "fé",
-      "author": "alan"
-    }
-  ],
-  "comments": [
+      "id": 2,
+      "nome": "curso angularssa",
+      "validade": "2102-12-31",
+      "precoProduto": 321.322
+    },
     {
-      "id": 3,
-      "title": "fé",
-      "author": "alan"
+      "nome": "1212",
+      "validade": "1212-12-12",
+      "precoProduto": 1212,
+      "id": 3
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
